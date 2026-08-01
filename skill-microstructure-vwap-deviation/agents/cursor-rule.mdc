@@ -1,0 +1,8 @@
+# Microstructure VWAP Deviation Agent Rule
+
+- Read `SKILL.md` before using this skill.
+- Present execution-cost and session defaults before running a backtest.
+- Prefer `scripts/test.py` for regression checks.
+- Use `scripts/run_index_mtf_formal.py` for formal SSQuant runs.
+- Never put generated datasets, trades, reports, logs, or caches in this package.
+- Never compare formal runs until dataset hashes and adjustment modes match.

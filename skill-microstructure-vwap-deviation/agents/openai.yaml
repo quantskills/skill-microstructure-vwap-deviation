@@ -1,0 +1,6 @@
+interface:
+  display_name: "Minute VWAP Deviation"
+  short_description: "Backtest minute VWAP deviation mean reversion."
+  default_prompt: "Use $skill-microstructure-vwap-deviation to research or backtest a minute VWAP deviation strategy."
+policy:
+  allow_implicit_invocation: true
